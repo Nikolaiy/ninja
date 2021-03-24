@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="784d68a6-c8bc-422d-9fcf-417f4dc14630" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oWiiAl8d2yfIRiuCOdIOlFCTxY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10Pro\Downloads\ninja-master\src\pages" />
+      <recent name="C:\Users\Win10Pro\WebstormProjects\ninja\src\pages" />
+      <recent name="C:\Users\Win10Pro\WebstormProjects\ninja\src\component\menu" />
+      <recent name="C:\Users\Win10Pro\WebstormProjects\ninja\src\component\header" />
+      <recent name="C:\Users\Win10Pro\WebstormProjects\ninja\src\component\footer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10Pro\Desktop\ninja\src\assets\img" />
+      <recent name="C:\Users\Win10Pro\WebstormProjects\ninja\public" />
+      <recent name="C:\Users\Win10Pro\WebstormProjects\ninja\src\scss\fonts" />
+      <recent name="C:\Users\Win10Pro\WebstormProjects\ninja\src\scss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="784d68a6-c8bc-422d-9fcf-417f4dc14630" name="Default Changelist" comment="" />
+      <created>1613408872291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613408872291</updated>
+      <workItem from="1613408875918" duration="9218000" />
+      <workItem from="1613580004326" duration="35304000" />
+      <workItem from="1614518508308" duration="24022000" />
+      <workItem from="1614703738740" duration="26632000" />
+      <workItem from="1615310538169" duration="15968000" />
+      <workItem from="1616170192172" duration="53602000" />
+      <workItem from="1616594570300" duration="149000" />
+      <workItem from="1616594723662" duration="40000" />
+      <workItem from="1616594773873" duration="3435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="148" key="#Inspections" timestamp="1615270034267">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="260" y="148" key="#Inspections/69.0.1851.1080@69.0.1851.1080" timestamp="1615270034267" />
+    <state x="732" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616170959692">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="732" y="350" key="#com.intellij.fileTypes.FileTypeChooser/69.0.1851.1080@69.0.1851.1080" timestamp="1616170959692" />
+    <state x="408" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613580778517">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="408" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/69.0.1851.1080@69.0.1851.1080" timestamp="1613580778517" />
+    <state width="901" height="295" key="GridCell.Tab.0.bottom" timestamp="1613491706100">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="901" height="295" key="GridCell.Tab.0.bottom/69.0.1851.1080@69.0.1851.1080" timestamp="1613491706100" />
+    <state width="901" height="295" key="GridCell.Tab.0.center" timestamp="1613491706100">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="901" height="295" key="GridCell.Tab.0.center/69.0.1851.1080@69.0.1851.1080" timestamp="1613491706100" />
+    <state width="901" height="295" key="GridCell.Tab.0.left" timestamp="1613491706100">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="901" height="295" key="GridCell.Tab.0.left/69.0.1851.1080@69.0.1851.1080" timestamp="1613491706100" />
+    <state width="901" height="295" key="GridCell.Tab.0.right" timestamp="1613491706100">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state width="901" height="295" key="GridCell.Tab.0.right/69.0.1851.1080@69.0.1851.1080" timestamp="1613491706100" />
+    <state x="181" y="189" key="SettingsEditor" timestamp="1613409860452">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="181" y="189" key="SettingsEditor/69.0.1851.1080@69.0.1851.1080" timestamp="1613409860452" />
+    <state x="651" y="250" width="672" height="677" key="run.anything.popup" timestamp="1615263560870">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="651" y="250" width="672" height="677" key="run.anything.popup/69.0.1851.1080@69.0.1851.1080" timestamp="1615263560870" />
+    <state x="341" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1616424890676">
+      <screen x="69" y="0" width="1851" height="1080" />
+    </state>
+    <state x="341" y="240" width="672" height="678" key="search.everywhere.popup/69.0.1851.1080@69.0.1851.1080" timestamp="1616424890676" />
+  </component>
+</project>

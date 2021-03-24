@@ -1,0 +1,43 @@
+
+.categories {
+
+  
+
+  &__small {
+    display: none;
+  }
+
+  ul {
+    display: flex;
+
+    li {
+      margin-right: 10px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: color 0.1s ease-in-out;
+      @include noselect();
+			 
+    }
+  }
+
+  &__link {
+    transition: color .2s linear;
+
+    &:hover {
+      color: $orange;
+    }
+
+  }
+  
+}
+
+.categories__link.active {
+  color: $orange;
+}
+
+.fixed-bar {
+  position: sticky;
+	top: 0;
+	z-index: 1000;
+	background-color: white;
+}

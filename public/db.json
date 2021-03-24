@@ -1,0 +1,173 @@
+{
+  "categories": [
+    {
+      "name": "Суши",
+      "descr": [
+        {
+          "id": 0,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/529002804239e37725f48d37ca73174a_fit_300_168_center.jpg",
+          "name": "Запеченный гункан с крабом",
+          "price": 90,
+          "description": "Описание товара который надо продавать",
+          "category": 0
+        },
+        {
+          "id": 1,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/529002804239e37725f48d37ca73174a_fit_300_168_center.jpg",
+          "name": "Запеченный гункан с креветкой",
+          "price": 100,
+          "description": "Описание товара который надо продавать",
+          "category": 0
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/529002804239e37725f48d37ca73174a_fit_300_168_center.jpg",
+          "name": "Запеченный гункан с лососем",
+          "price": 100,
+          "description": "Описание товара который надо продавать",
+          "category": 0
+        },
+        {
+          "id": 3,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/424179b671659b35f5d0b28a3461d673_fit_300_168_center.png",
+          "name": "Суши с лососем",
+          "price": 100,
+          "description": "Описание товара который надо продавать",
+          "category": 0
+        }
+      ]
+    },
+    {
+      "name": "Роллы",
+      "descr": [
+        {
+          "id": 4,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/d934766cd8e1d235abe41f92e32d264d_fit_300_168_center.jpg",
+          "name": "Ролл с огурцом",
+          "price": 130,
+          "description": "Описание товара который надо продавать",
+          "category": 1
+        },
+        {
+          "id": 5,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/43ce67e6c77ab676844811da69e0b848_fit_300_168_center.jpg",
+          "name": "Ролл с чуккой",
+          "price": 130,
+          "description": "Описание товара который надо продавать",
+          "category": 1
+        },
+        {
+          "id": 6,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/49a17181a96873ead76c6eb13a5f7d38_fit_300_168_center.jpg",
+          "name": "Ролл со сливочным сыром",
+          "price": 140,
+          "description": "Описание товара который надо продавать",
+          "category": 1
+        },
+        {
+          "id": 7,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/ea11fb95a7c61ce2e7cf45a7b5aefd45_fit_300_168_center.jpg",
+          "name": "Ролл с беконом",
+          "price": 180,
+          "description": "Описание товара который надо продавать",
+          "category": 1
+        }
+      ]
+    },
+    {"name":  "Наборы",
+      "descr": [
+        {
+          "id": 8,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/b87c3c81147160f2da5bfeb2112895cb_fit_300_168_center.jpg",
+          "name": "Сет Русский",
+          "price": 599,
+          "description": "Описание товара который надо продавать",
+          "category": 2
+        },
+        {
+          "id": 9,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/d934766cd8e1d235abe41f92e32d264d_fit_300_168_center.jpg",
+          "name": "Сет Филадельфия мини",
+          "price": 690,
+          "description": "Описание товара который надо продавать",
+          "category": 2
+        },
+        {
+          "id": 10,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/4d6a648d90356a74b3a1a76f32295317_fit_300_168_center.jpg",
+          "name": "Сет Яки маки",
+          "price": 690,
+          "description": "Описание товара который надо продавать",
+          "category": 2
+        },
+        {
+          "id": 11,
+          "imageUrl": "https://api.сытыйниндзя.рф/storage/4cb7a2e21aeeff98b7dfb427339d0072_fit_300_168_center.jpg",
+          "name": "Сет Кунжутный",
+          "price": 790,
+          "description": "Описание товара который надо продавать",
+          "category": 2
+        }
+      ]},
+    {"name":  "Паста",
+      "descr": []},
+    {"name":  "Пицца",
+      "descr": []},
+    {"name":  "Салаты",
+      "descr": []},
+    {"name":  "Горячее",
+      "descr": []},
+    {"name":  "Добавки и соусы",
+      "descr": []},
+    {"name":  "Напитки",
+      "descr": []},
+    {"name":  "WOK Лапша",
+      "descr": []},
+    {"name":  "Собери WOK сам",
+      "descr": []}
+  ],
+  "sales": [
+    {
+      "id": 0,
+      "imageUrl": "https://api.сытыйниндзя.рф/storage/7f8c279285940b8b15c5ca70ed76f130_fit_300_168_center.jpg",
+      "name": "Сет Горячий",
+      "price": 1250,
+      "category": 2
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://api.сытыйниндзя.рф/storage/b6d53c47184a74317fe323b12d97537e_fit_300_168_center.jpg",
+      "name": "Сет Запеченный",
+      "price": 1250,
+      "category": 2
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://api.сытыйниндзя.рф/storage/d72900084d5e68bfa46983d1144b3a6c_fit_300_168_center.jpg",
+      "name": "Сет Класический",
+      "price": 900,
+      "category": 2
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://api.сытыйниндзя.рф/storage/32e3787644d20f82a34eed43bb7f3abb_fit_300_168_center.jpg",
+      "name": "Сет Много Рыбы",
+      "price": 1050,
+      "category": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://api.сытыйниндзя.рф/storage/b87c3c81147160f2da5bfeb2112895cb_fit_300_168_center.jpg",
+      "name": "Сет Русский",
+      "price": 599,
+      "category": 2
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://api.сытыйниндзя.рф/storage/53e61e8b0fbb5f6d92fd850bd7a9a6e1_fit_300_168_center.jpg",
+      "name": "Сет Темпура",
+      "price": 800,
+      "category": 2
+    }
+  ]
+}

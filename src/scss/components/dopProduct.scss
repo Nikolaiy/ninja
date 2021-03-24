@@ -1,0 +1,35 @@
+.add__product-wrapper {
+  margin-top: 80px;
+}
+
+.add__product {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 80px;
+  display: flex;
+}
+
+.add__product-wrap {
+  width: calc(20% - 10px);
+  text-align: center;
+  color: black;
+  font-weight: 600;
+  font-style: 16px;
+  border: 1px solid rgb(226, 226, 233);
+  border-radius: 12px;
+  margin-right: 10px;
+  padding: 20px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.add__product-img {
+  width: 64px;
+  height: 64px;
+}
+
+.add__product-title {
+  margin-bottom: 25px;
+}

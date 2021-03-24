@@ -1,0 +1,105 @@
+.modal {
+
+  &__bg {
+    position: fixed;
+    border: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, .2);
+    backdrop-filter: blur(10px);
+    z-index: 99;
+  }
+
+  &__wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100%;
+    box-shadow: 0px 0px 10px #000;
+  }
+
+  &.open {
+    height: 100%;
+    display: block;
+  }
+
+  &.close {
+    height: 0;
+    display: none;
+  }
+
+  &__body {
+    position: relative;
+    width: 880px;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+  }
+
+  &__close {
+    position: absolute;
+    z-index: 10;
+    top: 10px;
+    right: -50px;
+    transition: trasform 0.3s;
+
+    svg {
+      cursor: pointer;
+      transition: trasform 0.3s;
+
+      :hover {
+        transform: scale(1.4);
+      }
+    }
+  }
+
+  &__title {
+    margin-bottom: 40px;
+  }
+
+  &__form {
+    width: 80%;
+  }
+
+}
+
+.modal {
+
+  &__form {
+    width: 80%;
+  }
+
+  &__btn {
+    padding: 20px;
+    font-size: 18px;
+  }
+
+}
+
+.modal__group-input {
+  margin-bottom: 20px;
+}
+
+.input__big {
+  width: calc(100% - 10px);
+  resize: none;
+}
+
+textarea.input__big  {
+  height: 100px;
+  padding: 15px;
+}
+
+.input__middle {
+  width: calc(75% - 10px);
+  margin-right: 10px;
+}
+
+.input__small {
+  display: inline-block;
+  margin-right: 10px;
+  width: calc(25% - 10px);
+}
+
+.input__small + .input__small {
+  margin-left: 0;
+}

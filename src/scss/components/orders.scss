@@ -280,6 +280,10 @@ input[type=radio]:checked + label:before {
     background: $orange;
 }
 
+input[type=radio]:disabled + label:before {
+	background: grey;
+}
+
 .composition {
 
     &__title {

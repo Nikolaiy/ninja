@@ -23,8 +23,6 @@ function Orders() {
 		return items[key].items[0]
 	});
 
-	console.log(allProduct)
-
 	return (
 		<div>
 			<ModalOrders isOpen={active} isOpenModal={setActive} />
@@ -56,7 +54,7 @@ function Orders() {
 				<div className="orders__container">
 					<div className="orders__form">
 						<h2 className="orders__title">Заказ на доставку</h2>
-						<FormOrders isOpenModal={setActive} />
+						<FormOrders isOpenModal={setActive} active={active} />
 						<div className="cart__bottom-buttons">
 							<a href="/" className="button button--outline button--add go-back-btn">
 								<svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">

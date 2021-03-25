@@ -2,6 +2,10 @@
 
     &__wrap {
         display: none;
+				z-index: 10000;
+				position: relative;
+				
+
     }
 }
 
@@ -32,60 +36,47 @@
     background-color: black;
     position: fixed;
     top: 0;
-    left: 0;
+    left: 100%;
     z-index: 10;
     color: white;
     padding: 10px;
     font-size: 20px;
+		transition: all .3s linear;
+		
+			.header {
+					position: relative;
+					
+					&__logo {
+					background-color: transparent;
+					}
 
-    .header {
-        position: relative;
-        
-        &__logo {
-        background-color: transparent;
-        }
+					&_block {
+							display: flex;
+					}
 
-        &_block {
-            display: flex;
-        }
+					&__burger {
+							position: relative;
+							top: -30px;
 
-        &__burger {
-            position: relative;
-            top: -30px;
+							&-item {
+									margin-top: 10px;
+							}
+					}
 
-            &-item {
-                margin-top: 10px;
-            }
-        }
+					
+			}
 
-        &__burger:after,
-        &__burger:before {
-            content: "";
-            width: 30px;
-            height: 3px;
-            background-color: white;
-            position: absolute;
-            right: 10px;
-        }
+			a {
+					color: white;
+			}
 
-        &__burger:after {
-            transform: rotate(45deg);
-            top: 3px;
-        }
-
-        &__burger:before {
-            transform: rotate(-45deg);
-            top: -3px;
-        }
-    }
-
-    a {
-        color: white;
-    }
-}
+			&.active {
+				left: 0;
+			}
+		}
 
     &__body {
-        padding: 20px 0 0 30px;
+        padding-left: 10px;
     }
 
     &__info {

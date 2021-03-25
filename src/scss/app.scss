@@ -3,6 +3,10 @@
 @import 'libs/normalize';
 @import 'components/all';
 
+.scroll-hidden {
+	overflow: hidden;
+}
+
 .container {
   padding: 0 15px;
 }
